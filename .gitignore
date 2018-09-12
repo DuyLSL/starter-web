@@ -1,1 +1,4 @@
 humans.txt
+access.log
+*.log
+log
