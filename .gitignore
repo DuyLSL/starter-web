@@ -2,3 +2,4 @@ humans.txt
 access.log
 *.log
 log
+*.orig
