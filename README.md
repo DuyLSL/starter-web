@@ -3,7 +3,7 @@
 This repository is for showing how Git and GitHub work
 
 ## Purpose
-
+Adding another change after rebase
 this readme has been modified for rebasing purpose
  website with plenty of files for demos
 
